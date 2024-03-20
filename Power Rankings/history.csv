@@ -1,0 +1,949 @@
+t,0,Week 1,,,,
+t,1,Halloween Cup,,,,
+t,2,Practice W4/5,,,,
+t,3,Practice W6,,,,
+t,4,Practice Week 7,,,,
+t,5,Practice W8,,,,
+t,6,Christmas Cup,,,,
+t,7,T2W1 Rankings,,,,
+t,8,W16 Practice,,,,
+t,9,W17 Practice,,,,
+t,10,Shootout,,,,
+t,11,W19,,,,
+t,12,W20,,,,
+t,13,Grand Prix,,,,
+t,14,Warwick Masters,,,,
+t,15,End of Term 2,,,,
+m,0,Jacob,Dom,l,1,2
+m,0,Dan,Max,w,2,1
+m,0,Harry,Alan,l,1,2
+m,0,Dan,Harry,w,2,1
+m,0,Jacob,Max,w,2,1
+m,0,Dom,Alan,w,2,1
+m,0,Max,Harry,w,2,0
+m,0,Dom,Dan,w,2,0
+m,0,Jacob,Alan,l,1,2
+m,0,Harry,Jacob,l,0,2
+m,0,Alan,Dan,w,2,1
+m,0,Max,Dom,l,1,2
+m,0,Alan,Max,w,2,0
+m,0,Jacob,Dan,w,2,1
+m,0,Harry,Dom,l,1,2
+m,0,Douglas,Dave,w,2,1
+m,0,Bartley,Matt,w,2,1
+m,0,Paul,Georgie,w,2,1
+m,0,Georgie,Bartley,l,1,2
+m,0,Matt,Douglas,l,0,2
+m,0,Dave,Morgan,l,0,2
+m,0,Bartley,Morgan,w,2,1
+m,0,Paul,Dave,l,0,2
+m,0,Georgie,Matt,w,2,0
+m,0,Matt,Paul,l,1,2
+m,0,Morgan,Douglas,w,2,0
+m,0,Paul,Douglas,w,2,0
+m,0,Georgie,Morgan,l,0,2
+m,0,Douglas,Bartley,w,2,1
+m,0,Sam E,Toby,w,1,0
+m,0,Osian,Sam W,l,0,1
+m,0,Ben,Sean,l,0,1
+m,0,Sam E,Osian,w,2,1
+m,0,Sam W,Ben,w,1,0
+m,0,Toby,Sean,l,0,1
+m,0,Sam E,Sam W,w,1,0
+m,0,Osian,Sean,l,0,1
+m,0,Toby,Ben,l,0,1
+m,0,Sam E,Ben,w,1,0
+m,0,Sam W,Sean,l,0,1
+m,0,Toby,Osian,l,0,1
+m,0,Osian,Ben,l,0,1
+m,0,Toby,Sam W,l,0,1
+m,0,Sam E,Sean,w,2,0
+m,0,Elisabeth,DJ,w,1,0
+m,0,Amber,Chelsea,w,1,0
+m,0,Anna,Billy,l,0,1
+m,0,Amber,Anna,l,0,1
+m,0,Chelsea,DJ,w,1,0
+m,0,Elisabeth,Billy,w,1,0
+m,0,Chelsea,Anna,l,0,1
+m,0,Elisabeth,Amber,w,1,0
+m,0,DJ,Billy,l,0,1
+m,0,Anna,DJ,w,1,0
+m,0,Billy,Amber,w,1,0
+m,0,Chelsea,Elisabeth,w,1,0
+m,0,Billy,Chelsea,w,1,0
+m,0,DJ,Amber,l,0,1
+m,0,Anna,Elisabeth,w,1,0
+m,0,DJ,Surya,w,1,0
+m,0,Elisabeth,Surya,l,0,1
+m,0,Amber,Surya,l,0,1
+m,0,Anna,Surya,l,0,1
+m,0,Billy,Surya,w,1,0
+m,0,Chelsea,Surya,w,1,0
+m,0,Dom,Temple,l,1,2
+m,0,Jacob,Harry,w,2,0
+m,0,Alan,Charlie,w,2,0
+m,0,Lewis,Dan,l,0,2
+m,0,Dan,Max,w,2,1
+m,0,Max,Charlie,w,2,1
+m,0,Temple,Alan,w,2,1
+m,0,Charlie,James,w,2,0
+m,0,Dom,James,w,2,0
+m,0,Douglas,Sean,l,0,1
+m,0,Paul,Bartley,w,1,0
+m,0,Matt,Ben,w,1,0
+m,0,Dave,Ollie,w,1,0
+m,0,Ben,Paul,w,1,0
+m,0,Bartley,Douglas,w,1,0
+m,0,Sean,Billy,w,1,0
+m,0,Matt,Toby,l,0,1
+m,0,Paul,Billy,w,1,0
+m,0,Dave,Bartley,w,1,0
+m,0,Ollie,Ben,l,0,1
+m,0,Billy,Douglas,w,1,0
+m,0,Dave,Billy,w,1,0
+m,0,Douglas,Paul,w,1,0
+m,0,Dave,Paul,l,0,1
+m,0,Bartley,Paul,w,2,0
+m,0,Douglas,Bartley,w,2,1
+m,0,Sam E,Max,w,2,1
+m,0,Temple,Dom,w,2,1
+m,0,Alan,Paul,w,2,1
+m,0,Temple,Adam,l,0,2
+m,0,Dom,Sam E,w,2,1
+m,0,Max,Adam,w,2,1
+m,0,Sam E,Paul,w,2,1
+m,0,Paul,Temple,l,0,2
+m,0,Alan,Max,l,1,2
+m,0,Paul,Dom,l,1,2
+m,0,Dom,Alan,w,2,0
+m,0,Max,Temple,l,0,2
+m,0,Adam,Sam E,w,2,0
+m,0,Temple,Alan,w,2,1
+m,0,Alan,Sam E,w,2,0
+m,0,Paul,Adam,l,0,2
+m,0,Dom,Max,l,1,2
+m,0,Max,Paul,w,2,0
+m,0,Sam E,Temple,w,2,0
+m,0,Adam,Dom,w,2,0
+m,0,Charlie,Dave,l,0,2
+m,0,Dan,Bartley,w,2,1
+m,0,Dave,Dan,l,1,2
+m,0,Bartley,Harry,l,1,2
+m,0,Dan,Charlie,w,2,0
+m,0,Harry,Dave,w,2,1
+m,0,Dave,Bartley,l,0,2
+m,0,Charlie,Harry,l,1,2
+m,0,Bartley,Charlie,w,2,1
+m,0,Elliott,Ben,w,2,1
+m,0,Matt,Douglas,l,0,2
+m,0,Ben,Morgan,l,0,2
+m,0,Elliott,Douglas,l,1,2
+m,0,Douglas,Morgan,l,0,2
+m,0,Elliott,Matt,w,2,0
+m,0,Matt,Morgan,l,0,2
+m,0,Douglas,Ben,l,1,2
+m,0,Matt,Ben,l,0,2
+m,0,Elliott,Morgan,w,2,0
+m,0,Fred,Anna,l,1,2
+m,0,Amber,Joseph,l,0,2
+m,0,Anna,Ollie,l,1,2
+m,0,Fred,Joseph,l,1,2
+m,0,Anna,Amber,l,1,2
+m,0,Joseph,Ollie,l,0,2
+m,0,Fred,Amber,w,2,0
+m,0,Amber,Ollie,l,1,2
+m,0,Anna,Joseph,w,2,1
+m,0,Fred,Ollie,l,0,2
+m,0,Billy,Harry,l,0,1
+m,0,Elliott,Ben,w,1,0
+m,0,Ben,Billy,l,0,1
+m,0,Dom,Ollie,w,1,0
+m,0,Bartley,Fred,w,1,0
+m,0,Harry,Bartley,w,1,0
+m,0,Fred,Dom,l,0,1
+m,0,Ollie,Charlie,l,0,1
+m,0,Bartley,Charlie,l,0,1
+m,0,Billy,Ollie,l,0,1
+m,0,Elliott,Fred,l,0,1
+m,0,Billy,Harry,l,0,1
+m,0,Harry,Elliott,w,1,0
+m,0,Fred,Billy,l,0,1
+m,0,Ollie,Bartley,l,0,1
+m,0,Charlie,Dom,w,1,0
+m,0,Billy,Dom,l,0,1
+m,0,Anna,Ollie,l,0,1
+m,0,Harry,Fred,w,1,0
+m,0,Ollie,Elliott,l,0,1
+m,0,Dom,Elliott,w,1,0
+m,0,Dom,Harry,w,1,0
+m,0,Billy,Elliott,l,0,1
+m,0,Anna,Dom,l,0,1
+m,0,Fred,Ollie,l,0,1
+m,0,Ollie,Harry,l,0,1
+m,0,Temple,Joseph,w,2,0
+m,0,Jacob,Kavit,w,2,0
+m,0,Andrei,Umer,l,0,2
+m,0,Maria,Temple,l,0,1
+m,0,Maria,Joseph,l,0,1
+m,0,Kavit,Temple,l,0,1
+m,0,Jacob,Andrei,w,1,0
+m,0,Maria,Kavit,l,0,1
+m,0,Temple,Umer,w,1,0
+m,0,Umer,Jacob,l,0,1
+m,0,Temple,Jacob,l,0,1
+m,0,Umer,Kavit,w,1,0
+m,0,Andrei,Joseph,l,0,1
+m,0,Dom,Dave,w,2,1
+m,0,Lewis,Julian,l,0,2
+m,0,Chelsea,Ben M,l,0,2
+m,0,Elliottnda,Dave,l,0,1
+m,0,Julian,Dom,l,0,1
+m,0,Dave,Ben M,l,0,1
+m,0,Lewis,Chelsea,w,1,0
+m,0,Lucy,Julian,l,0,1
+m,0,Dom,Ben M,w,1,0
+m,0,Dave,Lewis,w,1,0
+m,0,Lucy,Dom,l,0,1
+m,0,Ben M,Lewis,l,0,1
+m,0,Alan,Bartley,w,2,0
+m,0,Georgie,Bella,l,0,2
+m,0,Elliott,Amber,w,2,0
+m,0,Bella,Alan,l,0,1
+m,0,Bartley,Amber,w,1,0
+m,0,Georgie,Elliott,l,0,1
+m,0,Bella,Harry,l,0,1
+m,0,Harry,Bartley,l,0,1
+m,0,Alan,Amber,w,1,0
+m,0,Bartley,Georgie,l,0,1
+m,0,Elliott,Harry,w,1,0
+m,0,Amber,Georgie,w,1,0
+m,0,Harry,Alan,w,1,0
+m,0,Dom,Ben M,w,2,0
+m,0,Jacob,Elliottnda,w,2,0
+m,0,Elliott,Alan,l,0,2
+m,0,Temple,Dave,w,2,0
+m,0,Dom,Jacob,l,1,2
+m,0,Alan,Temple,l,0,2
+m,0,Jacob,Temple,w,2,1
+m,1,Sean,Douglas,l,0,1
+m,1,Georgie,Ollie,l,0,1
+m,1,Ollie,Sean,w,1,0
+m,1,Douglas,Lorenzo,w,1,0
+m,1,Lorenzo,Ollie,l,0,1
+m,1,Sean,Georgie,l,0,1
+m,1,Georgie,Lorenzo,w,1,0
+m,1,Ollie,Douglas,w,1,0
+m,1,Douglas,Georgie,l,0,1
+m,1,Lorenzo,Sean,l,0,1
+m,1,Harry,Joseph,w,2,0
+m,1,Max,Elliott,w,2,0
+m,1,Elliott,Harry,l,0,2
+m,1,Joseph,Paul,l,0,2
+m,1,Paul,Elliott,w,2,1
+m,1,Harry,Max,w,2,0
+m,1,Max,Paul,w,2,1
+m,1,Elliott,Joseph,l,0,2
+m,1,Billy,Adam,l,0,2
+m,1,Amber,Bartley,l,0,2
+m,1,Bartley,Billy,w,2,0
+m,1,Adam,Amber,w,2,0
+m,1,Bartley,Adam,l,0,2
+m,1,Billy,Amber,w,2,0
+m,1,Ben,Charlie,w,2,1
+m,1,Alan,Fred,w,2,0
+m,1,Ben,Alan,l,1,2
+m,1,Charlie,Fred,w,2,1
+m,1,Ben,Fred,l,1,2
+m,1,Charlie,Alan,l,1,2
+m,1,Sean,Lorenzo,w,2,1
+m,1,Elliott,Ben,l,0,2
+m,1,Joseph,Billy,l,1,2
+m,1,Fred,Amber,l,1,2
+m,1,Ben,Sean,w,3,1
+m,1,Billy,Amber,l,1,3
+m,1,Ben,Amber,w,3,0
+m,1,Adam,Georgie,w,3,0
+m,1,Charlie,Harry,w,3,2
+m,1,Bartley,Ollie,w,3,1
+m,1,Alan,Max,w,3,1
+m,1,Adam,Charlie,w,4,2
+m,1,Bartley,Alan,l,0,4
+m,1,Adam,Alan,w,5,2
+m,2,Dave,Elliott,w,2,1
+m,2,Billy,Adam,l,0,2
+m,2,Dave,Billy,w,2,1
+m,2,Elliott,Adam,l,1,2
+m,2,Dave,Adam,l,1,2
+m,2,Elliott,Billy,w,2,1
+m,2,Temple,Matt,w,2,0
+m,2,Paul,Amber,w,2,0
+m,2,Amber,Matt,w,2,0
+m,2,Temple,Paul,w,2,1
+m,2,Amber,Temple,l,0,2
+m,2,Paul,Matt,w,2,0
+m,2,Dom,Bartley,w,2,0
+m,2,Bartley,Georgie,w,2,0
+m,2,Dom,Georgie,l,0,2
+m,2,Dom,Bartley,l,1,2
+m,2,Bartley,Georgie,w,2,1
+m,2,Dom,Georgie,w,2,0
+m,2,Alan,Douglas,w,2,1
+m,2,Ollie,Fred,w,2,1
+m,2,Alan,Ollie,l,1,2
+m,2,Douglas,Fred,l,1,2
+m,2,Douglas,Ollie,l,1,2
+m,2,Alan,Fred,w,2,1
+m,2,Ollie,Dave,l,0,3
+m,2,Dom,Temple,l,2,3
+m,2,Alan,Adam,l,2,3
+m,2,Bartley,Paul,l,0,3
+m,2,Dave,Temple,l,0,4
+m,2,Adam,Paul,w,4,0
+m,2,Temple,Adam,l,2,5
+m,2,Billy,Matt,w,2,0
+m,2,Sam E,Ollie,w,2,0
+m,2,Billy,Amber,w,2,0
+m,2,Max,Sam E,w,2,1
+m,2,Ollie,Billy,w,2,0
+m,2,Amber,Sam E,l,0,2
+m,2,Ollie,Max,w,2,0
+m,2,Billy,Sam E,l,0,2
+m,2,Ollie,Amber,w,2,1
+m,2,Max,Billy,w,2,0
+m,2,Max,Amber,w,2,0
+m,2,Bartley,Lewis,w,2,1
+m,2,Dom,Ben,w,2,1
+m,2,Harry,Lewis,w,2,0
+m,2,Bartley,Dom,l,0,2
+m,2,Lewis,Ben,l,0,2
+m,2,Harry,Dom,l,0,2
+m,2,Bartley,Ben,w,2,1
+m,2,Harry,Bartley,l,1,2
+m,2,Joseph,Morgan,l,0,2
+m,2,Joseph,Alan,l,0,2
+m,2,Morgan,Alan,l,0,2
+m,2,Morgan,Elliott,w,2,1
+m,2,Morgan,Dan,l,0,2
+m,2,Alan,Elliott,w,2,0
+m,2,Alan,Dan,l,0,2
+m,2,Elliott,Dan,l,0,2
+m,2,Alan,Elliott,w,3,0
+m,2,Alan,Dom,l,1,2
+m,3,Max,Ollie,w,2,0
+m,3,Max,Bartley,l,0,2
+m,3,Max,Jacob,w,2,0
+m,3,Ollie,Bartley,l,0,2
+m,3,Ollie,Jacob,l,0,2
+m,3,Bartley,Jacob,l,0,2
+m,3,Max,Harry,w,2,1
+m,3,Ollie,Harry,l,0,2
+m,3,Bartley,Harry,w,2,0
+m,3,Jacob,Harry,w,2,0
+m,3,Dom,Georgie,w,2,0
+m,3,Dom,Sam E,w,2,0
+m,3,Dom,Morgan,w,2,1
+m,3,Dom,Fred,w,2,0
+m,3,Georgie,Sam E,l,0,2
+m,3,Georgie,Morgan,w,2,1
+m,3,Georgie,Fred,w,2,0
+m,3,Sam E,Morgan,w,2,0
+m,3,Sam E,Fred,w,2,0
+m,3,Morgan,Fred,w,2,0
+m,3,Alan,Sean,w,2,0
+m,3,Alan,Anna,w,2,0
+m,3,Alan,Dan,w,2,1
+m,3,Alan,Elliott,w,2,0
+m,3,Sean,Anna,w,2,0
+m,3,Sean,Dan,l,0,2
+m,3,Sean,Elliott,l,1,2
+m,3,Anna,Dan,l,0,2
+m,3,Anna,Elliott,l,0,2
+m,3,Dan,Elliott,w,2,0
+m,3,Alan,Dom,w,2,1
+m,4,Dom,Amber,w,2,1
+m,4,Max,Matt,w,2,0
+m,4,Billy,Dom,l,1,2
+m,4,Matt,Dom,l,0,2
+m,4,Amber,Douglas,l,0,2
+m,4,Douglas,Billy,l,1,2
+m,4,Dom,Max,w,2,0
+m,4,Max,Douglas,w,2,0
+m,4,Bartley,Dave,l,1,2
+m,4,Ollie,Harry,w,2,1
+m,4,Anna,Lewis,w,2,0
+m,4,Ollie,Anna,w,2,1
+m,4,Harry,Paul,w,2,0
+m,4,Harry,Anna,w,2,0
+m,4,Paul,Lewis,w,2,1
+m,4,Harry,Eminem,w,2,0
+m,4,Dom,Ben,w,2,0
+m,4,Ben,Eminem,w,2,0
+m,4,Dom,Harry,w,2,0
+m,4,Dom,Eminem,w,2,0
+m,4,Ben,Harry,w,2,1
+m,4,Charlie,Max,l,1,2
+m,4,Morgan,Douglas,w,2,1
+m,4,Charlie,Morgan,l,1,2
+m,4,Max,Douglas,w,2,0
+m,4,Charlie,Douglas,w,2,0
+m,4,Max,Morgan,w,2,0
+m,4,Dan,Matt,w,2,0
+m,4,Dave,Elliott,w,2,1
+m,4,Matt,Elliott,l,0,2
+m,4,Dan,Dave,l,1,2
+m,4,Dan,Elliott,w,2,1
+m,4,Matt,Dave,l,0,2
+m,4,Alan,Paul,l,1,2
+m,4,Alan,Billy,w,2,1
+m,4,Paul,Billy,l,0,2
+m,4,Billy,Sam E,w,2,0
+m,4,Alan,Bartley,w,2,1
+m,4,Paul,Bartley,l,1,2
+m,4,Billy,Bartley,l,1,2
+m,4,Alan,Billy,w,2,0
+m,4,Alan,Charlie,w,2,0
+m,4,Alan,Matt,w,2,0
+m,4,Dan,Joseph,w,2,0
+m,4,Elliott,Ben,l,0,2
+m,4,Fred,Ben,l,0,2
+m,4,Dan,Elliott,w,3,0
+m,4,Elliott,Fred,w,2,1
+m,4,Fred,Dan,l,0,2
+m,5,Jacob,Anna,w,2,0
+m,5,Bartley,Fred,w,2,0
+m,5,Jacob,Fred,w,2,0
+m,5,Jacob,Max,l,0,2
+m,5,Fred,Max,l,0,2
+m,5,Anna,Max,l,0,2
+m,5,Fred,Anna,w,2,0
+m,5,Dom,Billy,w,2,0
+m,5,Dom,Joseph,w,2,0
+m,5,Billy,Joseph,w,2,0
+m,5,Dom,Georgie,w,2,0
+m,5,Billy,Georgie,l,1,2
+m,5,Joseph,Georgie,l,0,2
+m,5,Alan,Ben,w,2,0
+m,5,Alan,Lewis,w,2,0
+m,5,Alan,Sam W,w,2,0
+m,5,Ben,Lewis,w,2,0
+m,5,Ben,Sam W,w,2,0
+m,5,Lewis,Sam W,l,0,2
+m,5,Alan,Georgie,l,1,2
+m,5,Dom,Ben,w,2,0
+m,5,Max,Billy,w,2,1
+m,5,Jacob,Sam W,w,2,0
+m,5,Georgie,Dom,l,0,2
+m,5,Max,Jacob,w,2,0
+m,5,Dom,Max,w,3,2
+m,6,Dom,Morgan,w,2,0
+m,6,Dan,Fred,w,2,1
+m,6,Dom,Fred,w,2,0
+m,6,Morgan,Dan,w,2,1
+m,6,Dom,Dan,w,2,0
+m,6,Morgan,Fred,w,2,1
+m,6,Alan,Bartley,l,0,2
+m,6,Alan,Lewis,w,2,0
+m,6,Alan,Jacob,w,2,1
+m,6,Bartley,Lewis,w,2,0
+m,6,Bartley,Jacob,w,2,1
+m,6,Lewis,Jacob,l,0,2
+m,6,Adam,Sam W,w,2,0
+m,6,Osian,Max,l,0,2
+m,6,Adam,Max,w,2,0
+m,6,Osian,Sam W,w,2,0
+m,6,Adam,Osian,w,2,0
+m,6,Max,Sam W,w,2,0
+m,6,Kyle,Paul,w,2,0
+m,6,Sam E,Douglas,l,1,2
+m,6,Ollie,Paul,w,2,1
+m,6,Kyle,Douglas,w,2,1
+m,6,Sam E,Paul,w,2,1
+m,6,Kyle,Ollie,w,2,0
+m,6,Douglas,Paul,w,2,0
+m,6,Sam E,Ollie,w,2,0
+m,6,Ollie,Douglas,w,2,0
+m,6,Kyle,Sam E,l,1,2
+m,6,Dan,Ollie,l,1,2
+m,6,Lewis,Osian,l,0,2
+m,6,Fred,Douglas,l,0,2
+m,6,Jacob,Sam W,w,2,1
+m,6,Ollie,Osian,w,2,1
+m,6,Douglas,Jacob,l,0,2
+m,6,Jacob,Ollie,w,3,1
+m,6,Dom,Sam E,l,1,3
+m,6,Alan,Adam,l,0,3
+m,6,Morgan,Kyle,l,1,3
+m,6,Bartley,Max,l,1,3
+m,6,Sam E,Adam,l,2,4
+m,6,Kyle,Max,l,0,4
+m,6,Adam,Max,w,5,3
+m,7,Ollie,Elliott,l,1,2
+m,7,Ollie,Billy,w,2,1
+m,7,Ollie,Max,l,0,2
+m,7,Elliott,Harry,w,2,0
+m,7,Elliott,Billy,w,2,0
+m,7,Elliott,Max,l,1,2
+m,7,Harry,Billy,w,2,0
+m,7,Harry,Max,l,0,2
+m,7,Billy,Max,l,0,2
+m,7,Temple,Jacob,w,2,0
+m,7,Dan,Morgan,w,2,0
+m,7,Temple,Sam W,w,2,0
+m,7,Jacob,Dan,l,0,2
+m,7,Temple,Morgan,l,0,2
+m,7,Dan,Sam W,l,0,2
+m,7,Dave,Morgan,l,0,2
+m,7,Temple,Paul,l,0,2
+m,7,Sam W,Dave,w,2,0
+m,7,Dan,Paul,w,2,0
+m,7,Morgan,Paul,l,0,2
+m,7,Sam E,Georgie,w,2,1
+m,7,Adam,Fred,w,2,0
+m,7,Sam E,Lewis,w,2,0
+m,7,Georgie,Adam,l,1,2
+m,7,Fred,Lewis,l,0,2
+m,7,Sam E,Adam,w,2,0
+m,7,Lewis,Douglas,l,1,2
+m,7,Adam,Lewis,w,2,0
+m,7,Fred,Douglas,l,0,2
+m,7,Georgie,Fred,w,2,0
+m,7,Sam E,Douglas,w,2,0
+m,7,Georgie,Lewis,w,2,1
+m,7,Georgie,Douglas,w,2,0
+m,7,Sam E,Fred,w,2,0
+m,7,Adam,Douglas,w,2,0
+m,7,Bartley,Matt,l,1,2
+m,7,Matt,Alan,l,1,2
+m,7,Osian,Matt,l,0,2
+m,7,Bartley,Osian,w,2,0
+m,7,Dom,Bartley,w,2,1
+m,7,Osian,Alan,l,0,2
+m,7,Alan,Harry,w,2,0
+m,7,Lewis,Amber,l,0,2
+m,7,Matt,Georgie,d,1,1
+m,7,Ben,Sean,w,2,0
+m,7,Matt,Sean,d,1,1
+m,7,Georgie,Lewis,d,1,1
+m,7,Bartley,Harry,w,2,0
+m,7,Matt,Bartley,d,1,1
+m,7,Ben,Harry,d,1,1
+m,7,Georgie,Ben,w,2,0
+m,7,Lewis,Harry,d,0,2
+m,7,Sam W,Dom,l,0,2
+m,7,Dom,Fred,w,2,0
+m,7,Douglas,Temple,l,0,2
+m,7,Douglas,Dan,d,1,1
+m,7,Temple,Dan,d,1,1
+m,7,Dave,Fred,d,1,1
+m,7,Sam W,Dave,d,1,1
+m,7,Anna,Douglas,l,0,2
+m,7,Fred,Anna,l,0,2
+m,7,Alan,Paul,d,1,1
+m,7,Billy,Max,l,0,2
+m,7,Ollie,Xander,w,2,0
+m,7,Xander,Billy,l,0,2
+m,7,Max,Alan,d,1,1
+m,7,Paul,Sam E,d,1,1
+m,7,Billy,Sam E,l,0,2
+m,7,Ollie,Paul,d,1,1
+m,7,Xander,Max,l,0,2
+m,7,Max,Ollie,d,1,1
+m,7,Paul,Billy,w,2,0
+m,7,Sam E,Alan,l,0,2
+m,7,Sam E,Ollie,w,2,0
+m,7,Alan,Xander,w,2,0
+m,7,Dom,Paul,w,2,0
+m,7,Georgie,Temple,l,0,2
+m,7,Max,Sam E,w,2,1
+m,7,Alan,Bartley,w,2,0
+m,7,Dom,Temple,w,3,1
+m,7,Max,Alan,w,3,0
+m,7,Max,Dom,w,4,0
+m,8,Jacob,Bartley,l,0,2
+m,8,Osian,Douglas,l,0,2
+m,8,Douglas,Jacob,l,0,2
+m,8,Bartley,Elliott,d,1,1
+m,8,Elliott,Douglas,d,1,1
+m,8,Jacob,Osian,l,0,2
+m,8,Osian,Elliott,l,0,2
+m,8,Douglas,Bartley,d,1,1
+m,8,Bartley,Osian,w,2,0
+m,8,Elliott,Jacob,w,2,0
+m,8,Billy,Sam W,d,1,1
+m,8,Temple,Dan,d,1,1
+m,8,Dan,Billy,d,1,1
+m,8,Temple,Sam W,w,2,0
+m,8,Temple,Billy,w,2,0
+m,8,Temple,Fred,w,2,0
+m,8,Billy,Fred,d,1,1
+m,8,Sam W,Fred,d,1,1
+m,8,Dan,Fred,w,2,0
+m,8,Morgan,Max,l,0,2
+m,8,Paul,Matt,d,1,1
+m,8,Paul,Max,l,0,2
+m,8,Sam E,Max,d,1,1
+m,8,Matt,Sam E,d,1,1
+m,8,Matt,Max,l,0,2
+m,8,Sam E,Paul,d,1,1
+m,8,Alan,Anna,w,2,0
+m,8,Alan,Georgie,d,1,1
+m,8,Alan,Lewis,w,2,0
+m,8,Anna,Georgie,l,0,2
+m,8,Anna,Lewis,l,0,2
+m,8,Georgie,Lewis,l,0,2
+m,8,Fred,Sam W,l,0,1
+m,8,Georgie,Billy,w,1,0
+m,8,Jacob,Douglas,w,1,0
+m,8,Sam W,Billy,w,2,0
+m,8,Georgie,Jacob,l,0,2
+m,8,Billy,Jacob,w,3,1
+m,8,Alan,Bartley,w,2,1
+m,8,Max,Dan,w,3,2
+m,8,Lewis,Elliott,l,1,2
+m,8,Sam E,Temple,l,1,3
+m,8,Alan,Max,l,0,3
+m,8,Elliott,Temple,l,0,3
+m,8,Max,Temple,w,4,3
+m,9,Max,Georgie,w,2,0
+m,9,Billy,Sam M,w,2,1
+m,9,Max,Billy,w,2,0
+m,9,Billy,Sam E,l,1,2
+m,9,Georgie,Sam E,w,2,0
+m,9,Max,Sam M,w,2,0
+m,9,Max,Sam E,w,2,0
+m,9,Dom,Bartley,w,2,1
+m,9,Elliott,Amber,w,2,0
+m,9,Dom,Elliott,w,2,1
+m,9,Bartley,Amber,w,2,0
+m,9,Elliott,Harry,w,2,1
+m,9,Dan,Ollie,w,2,0
+m,9,Douglas,Fred,l,1,2
+m,9,Morgan,Ollie,w,2,0
+m,9,Dan,Douglas,w,2,1
+m,9,Fred,Ollie,l,0,2
+m,9,Morgan,Dan,l,0,2
+m,9,Fred,Dan,l,0,2
+m,9,Douglas,Morgan,w,2,0
+m,9,Max,Dan,l,0,2
+m,9,Max,Josh,w,2,0
+m,9,Max,Surya,w,2,0
+m,9,Max,Kavit,w,2,0
+m,9,Dan,Douglas,d,1,1
+m,9,Dan,Josh,w,2,0
+m,9,Dan,Surya,w,2,0
+m,9,Douglas,Josh,w,2,0
+m,9,Douglas,Surya,d,1,1
+m,9,Douglas,Kavit,w,2,0
+m,9,Josh,Surya,l,0,2
+m,9,Josh,Kavit,l,0,2
+m,9,Dom,Elliott,w,2,0
+m,9,Dom,Fred,w,2,0
+m,9,Dom,Xander,w,2,0
+m,9,Dom,Paul,w,2,0
+m,9,Elliott,Fred,w,2,0
+m,9,Elliott,Xander,w,2,0
+m,9,Elliott,Paul,d,1,1
+m,9,Elliott,Barnaby,w,2,0
+m,9,Fred,Paul,d,1,1
+m,9,Fred,Barnaby,l,0,2
+m,9,Xander,Barnaby,d,1,1
+m,9,Paul,Barnaby,w,2,0
+m,9,Alan,Billy,w,2,0
+m,9,Alan,Ollie,w,2,0
+m,9,Alan,Georgie,d,1,1
+m,9,Alan,Anna,w,2,0
+m,9,Billy,Ollie,l,0,2
+m,9,Billy,Georgie,w,2,0
+m,9,Billy,Anna,w,2,0
+m,9,Billy,Morgan,l,0,2
+m,9,Ollie,Anna,w,2,0
+m,9,Ollie,Morgan,w,2,0
+m,9,Georgie,Anna,w,2,0
+m,9,Georgie,Morgan,d,1,1
+m,9,Anna,Morgan,l,0,2
+m,9,Dan,Morgan,w,2,0
+m,9,Dom,Ollie,l,1,2
+m,9,Max,Elliott,w,2,0
+m,9,Alan,Douglas,w,2,0
+m,9,Dan,Ollie,l,2,3
+m,9,Max,Alan,l,2,3
+m,9,Ollie,Alan,l,0,4
+m,10,Dave,Dan,l,0,3
+m,10,Temple,Georgie,l,1,3
+m,10,Paul,Douglas,l,2,3
+m,10,Bartley,Dan,w,3,1
+m,10,Morgan,Surya,w,3,0
+m,10,Ollie,DJ,w,3,0
+m,10,Fred,Sam W,l,0,3
+m,10,Sean,Georgie,l,1,3
+m,10,Ben,Amber,w,3,2
+m,10,Harry,Douglas,w,3,0
+m,10,Lewis,Osian,w,3,1
+m,10,Bartley,Morgan,l,2,4
+m,10,Ollie,Sam W,l,0,4
+m,10,Georgie,Ben,w,4,2
+m,10,Harry,Lewis,w,4,0
+m,10,Morgan,Sam W,w,5,0
+m,10,Georgie,Harry,l,1,5
+m,10,Harry,Morgan,w,6,3
+m,10,Georgie,Sam W,w,3,1
+m,10,Paul,Osian,w,3,0
+m,10,Ollie,Billy,l,1,3
+m,10,Jacob,Surya,w,3,0
+m,10,Elliott,Lewis,w,3,1
+m,10,Amber,Douglas,l,1,3
+m,10,Matt,Morgan,w,3,1
+m,10,Bartley,Sean,l,0,3
+m,10,Fred,Dave,l,1,3
+m,10,Ben,DJ,w,3,0
+m,10,Sam E,Harry,w,3,0
+m,10,Max,Georgie,w,4,0
+m,10,Paul,Billy,l,1,4
+m,10,Dan,Jacob,l,1,4
+m,10,Temple,Elliott,l,3,4
+m,10,Alan,Douglas,w,4,2
+m,10,Matt,Sean,w,4,2
+m,10,Dom,Dave,w,4,1
+m,10,Ben,Sam E,l,2,4
+m,10,Max,Billy,w,5,1
+m,10,Jacob,Elliott,w,5,2
+m,10,Alan,Matt,w,5,2
+m,10,Dom,Sam E,w,5,4
+m,10,Max,Jacob,w,6,4
+m,10,Dom,Alan,w,6,2
+m,10,Max,Dom,w,10,6
+m,11,Temple,Bartley,w,2,0
+m,11,Douglas,Callum,w,2,0
+m,11,Temple,Douglas,l,0,2
+m,11,Bartley,Callum,w,2,0
+m,11,Bartley,Douglas,d,1,1
+m,11,Temple,Callum,w,2,0
+m,11,Dom,Elliott,d,1,1
+m,11,Dom,Fred,w,2,0
+m,11,Dom,Sam E,l,0,2
+m,11,Dom,Adam,l,0,2
+m,11,Elliott,Fred,w,2,0
+m,11,Elliott,Sam E,l,0,2
+m,11,Elliott,Adam,d,1,1
+m,11,Fred,Sam E,d,1,1
+m,11,Fred,Adam,l,0,2
+m,11,Sam E,Adam,d,1,1
+m,11,Alan,Ollie,d,1,1
+m,11,Alan,Billy,l,0,2
+m,11,Alan,Amber,w,2,0
+m,11,Alan,Morgan,d,1,1
+m,11,Ollie,Billy,w,2,0
+m,11,Ollie,Amber,d,1,1
+m,11,Ollie,Morgan,w,2,0
+m,11,Billy,Amber,d,1,1
+m,11,Billy,Morgan,d,1,1
+m,11,Amber,Morgan,l,0,2
+m,11,Max,Dan,d,1,1
+m,11,Max,Matt,w,2,0
+m,11,Max,Sam W,w,2,0
+m,11,Max,Ben,w,2,0
+m,11,Dan,Matt,w,2,0
+m,11,Matt,Sam W,d,1,1
+m,11,Matt,Ben,l,0,2
+m,11,Sam W,Ben,l,0,2
+m,11,Dan,Sam W,w,2,0
+m,11,Dan,Ben,w,2,0
+m,11,Bartley,Amber,w,2,0
+m,11,Ben,Callum,w,2,0
+m,11,Dom,Morgan,l,1,2
+m,11,Fred,Billy,l,1,2
+m,11,Bartley,Ben,l,1,2
+m,11,Morgan,Billy,w,2,1
+m,11,Ben,Morgan,w,3,2
+m,11,Dan,Elliott,w,2,0
+m,11,Adam,Temple,w,3,1
+m,11,Douglas,Alan,l,0,2
+m,11,Ollie,Max,l,0,2
+m,11,Dan,Adam,l,0,3
+m,11,Alan,Max,l,0,3
+m,11,Adam,Max,w,4,3
+m,11,Ben,Fred,w,2,0
+m,11,Kesh,Sean,w,2,0
+m,11,Kesh,Xander,w,2,0
+m,11,Molly,Douglas,l,0,2
+m,11,Elliott,Douglas,l,0,2
+m,11,Paul,Alfred,l,1,2
+m,11,Alfred,Kavit,w,2,0
+m,11,Ben,Kesh,w,2,0
+m,11,Douglas,Alfred,l,1,2
+m,11,Alfred,Ben,l,1,3
+m,11,Xander,Elliott,l,0,2
+m,11,Kavit,Paul,w,2,0
+m,11,Sean,Molly,w,2,0
+m,11,Elliott,Kavit,w,2,0
+m,11,Sean,Fred,w,2,0
+m,11,Kesh,Elliott,w,2,1
+m,11,Douglas,Sean,w,2,1
+m,11,Kesh,Douglas,l,0,2
+m,11,Douglas,Alfred,w,3,2
+m,12,Dom,Ollie,l,0,2
+m,12,Dom,Dave,l,0,2
+m,12,Dom,Anna,d,1,1
+m,12,Ollie,Dave,d,1,1
+m,12,Ollie,Anna,w,2,0
+m,12,Dave,Anna,w,2,0
+m,12,Max,ThomasL,w,2,0
+m,12,Max,Osian,w,2,0
+m,12,Max,Ben,w,2,0
+m,12,Max,Billy,w,2,0
+m,12,Billy,Ben,w,2,0
+m,12,Billy,Osian,d,1,1
+m,12,Billy,ThomasL,l,0,2
+m,12,Ben,Osian,d,1,1
+m,12,Ben,ThomasL,d,1,1
+m,12,Osian,ThomasL,w,2,0
+m,12,Alan,Fred,w,2,0
+m,12,Alan,Georgie,d,1,1
+m,12,Alan,Matt,l,0,2
+m,12,Alan,Elliott,d,1,1
+m,12,Elliott,Fred,w,2,0
+m,12,Elliott,Georgie,w,2,0
+m,12,Elliott,Matt,d,1,1
+m,12,Matt,Georgie,d,1,1
+m,12,Matt,Fred,d,1,1
+m,12,Georgie,Fred,d,1,1
+m,12,Fred,Bartley,l,1,2
+m,12,Georgie,Ben,l,1,2
+m,12,Anna,Dom,l,1,2
+m,12,ThomasL,Bartley,w,2,1
+m,12,Ben,Dom,l,0,2
+m,12,ThomasL,Dom,l,0,2
+m,12,Elliott,Dave,w,2,0
+m,12,Max,Billy,w,2,0
+m,12,Ollie,Alan,w,2,0
+m,12,Matt,Osian,w,2,1
+m,12,Elliott,Max,l,0,3
+m,12,Ollie,Matt,w,3,0
+m,12,Max,Ollie,w,3,0
+m,13,Dave,Osian,l,0,2
+m,13,Dan,Fred,w,2,0
+m,13,Georgie,Lewis,w,2,0
+m,13,Sean,Morgan,l,1,2
+m,13,Billy,James,l,0,2
+m,13,Matt,Surya,w,2,0
+m,13,Callum,Bartley,l,0,2
+m,13,Ben,Paul,l,0,2
+m,13,Osian,Dan,l,0,2
+m,13,Georgie,Morgan,w,2,1
+m,13,James,Matt,w,2,0
+m,13,Bartley,Paul,w,2,1
+m,13,Dan,Georgie,w,3,0
+m,13,James,Bartley,w,3,1
+m,13,Dan,James,l,2,3
+m,13,Paul,Osian,w,2,0
+m,13,Ben,Sean,w,2,0
+m,13,Fred,Douglas,l,0,2
+m,13,Sam W,Bartley,l,0,2
+m,13,Morgan,Lewis,w,2,1
+m,13,Callum,Dave,l,0,2
+m,13,Matt,Georgie,l,1,2
+m,13,Ben W,Billy,w,2,1
+m,13,James,Surya,w,2,0
+m,13,Dom,Paul,w,2,1
+m,13,Ben,Douglas,l,0,2
+m,13,Sam E,Bartley,w,2,0
+m,13,Morgan,Ollie,l,0,2
+m,13,Alan,Dave,w,2,0
+m,13,Jacob,Georgie,w,2,0
+m,13,Dan,Ben W,l,0,2
+m,13,James,Elliott,l,1,2
+m,13,Dom,Douglas,w,3,0
+m,13,Sam E,Ollie,w,3,1
+m,13,Alan,Jacob,l,0,3
+m,13,Ben W,Elliott,l,2,3
+m,13,Dom,Sam E,l,3,4
+m,13,Jacob,Elliott,l,2,4
+m,13,Sam E,Elliott,w,4,3
+m,14,Dan,Matt,w,2,0
+m,14,Ollie,Ben,w,2,1
+m,14,Ben,Dan,l,0,2
+m,14,Matt,Callum,w,2,0
+m,14,Callum,Ben,l,0,2
+m,14,Dan,Ollie,l,0,2
+m,14,Ollie,Callum,w,2,0
+m,14,Ben,Matt,w,2,0
+m,14,Matt,Ollie,l,1,2
+m,14,Callum,Dan,l,1,2
+m,14,Dom,Jacob,l,0,2
+m,14,Sam W,Surya,w,2,1
+m,14,Fred,Billy,l,0,2
+m,14,Sam W,Fred,w,2,0
+m,14,Surya,Dom,l,0,2
+m,14,Jacob,Billy,w,2,0
+m,14,Surya,Fred,w,2,0
+m,14,Jacob,Sam W,w,2,0
+m,14,Dom,Billy,w,2,0
+m,14,Fred,Dom,l,0,2
+m,14,Billy,Sam W,w,2,0
+m,14,Surya,Jacob,l,1,2
+m,14,Billy,Surya,w,2,0
+m,14,Dom,Sam W,w,2,0
+m,14,Fred,Jacob,l,0,2
+m,14,Adam,Dave,l,1,2
+m,14,Temple,Morgan,w,2,0
+m,14,Morgan,Adam,w,2,1
+m,14,Dave,Lewis,w,2,0
+m,14,Lewis,Morgan,l,0,2
+m,14,Adam,Temple,w,2,1
+m,14,Temple,Lewis,w,2,0
+m,14,Morgan,Dave,l,0,2
+m,14,Dave,Temple,l,0,2
+m,14,Lewis,Adam,l,0,2
+m,14,Alan,Bartley,w,2,1
+m,14,Elliott,Douglas,l,1,2
+m,14,Bartley,ThomasL,w,2,0
+m,14,Douglas,Alan,l,0,2
+m,14,ThomasL,Douglas,l,0,2
+m,14,Alan,Elliott,l,1,2
+m,14,Elliott,ThomasL,w,2,1
+m,14,Douglas,Bartley,w,2,0
+m,14,Bartley,Elliott,l,1,2
+m,14,ThomasL,Alan,l,0,2
+m,14,Adam,Surya,w,2,0
+m,14,Billy,Sam E,l,1,2
+m,14,Elliott,Callum,w,2,0
+m,14,Ben,Lewis,w,2,0
+m,14,Sam W,Bartley,l,1,2
+m,14,ThomasL,Adam,l,0,2
+m,14,Sam E,Fred,w,2,0
+m,14,Matt,Elliott,l,1,2
+m,14,Ben,Bartley,l,1,2
+m,14,Adam,Sam E,w,2,0
+m,14,Elliott,Bartley,w,2,1
+m,14,Adam,Elliott,w,4,1
+m,14,Douglas,Dan,l,1,3
+m,14,Dave,Dom,l,0,3
+m,14,Temple,Jacob,w,3,2
+m,14,Alan,Ollie,w,3,2
+m,14,Dan,Dom,w,4,1
+m,14,Temple,Alan,w,4,1
+m,14,Dan,Temple,w,5,1
+m,15,Dom,Barnaby,w,2,0
+m,15,Ben,Beanie,w,2,0
+m,15,Dom,Ben,w,2,1
+m,15,Dom,Beanie,w,2,0
+m,15,Barnaby,Ben,l,0,2
+m,15,Barnaby,Beanie,l,0,2
+m,15,Tom,Douglas,l,0,2
+m,15,Fred,Elliott,l,0,2
+m,15,Tom,Fred,w,2,0
+m,15,Douglas,Elliott,l,1,2
+m,15,Tom,Elliott,l,0,2
+m,15,Douglas,Fred,w,2,1
+m,15,ThomasL,Anna,w,2,1
+m,15,Anna,Lewis,w,2,0
+m,15,ThomasL,Lewis,w,2,1
+m,15,ThomasL,Max,l,0,2
+m,15,Anna,Max,l,0,2
+m,15,Lewis,Max,l,0,2
+m,15,ThomasL,Douglas,w,3,0
+m,15,Elliott,Dom,l,0,3
+m,15,Max,Ben,w,3,0
+m,15,ThomasL,Dom,l,0,3
+m,15,Max,Lewis,w,3,0
+m,15,Dom,Max,l,2,4
